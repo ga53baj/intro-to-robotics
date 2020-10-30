@@ -1,12 +1,17 @@
 # From Idea to Market: Intro to Robotics Hackathon
 
-Welcome everyone to the official [hackathon](https://hackathons.femaletechleaders.org/texas-instruments-robotics) repository!
-
-### [Workshops](#workshops)
-* Session RSLK MAX
-* Design thinking & How to Pitch Workshop
+Welcome to the official FTL + TI [Intro to Robotics Hackathon](https://hackathons.femaletechleaders.org/texas-instruments-robotics) repository! The purpose of this repo is to consolidate all materials for this hackathon. This includes:
+- Materials (workshops) presented during the hackathon
+- Code submissions from each team
+- Presentation files from each team
 
 ### [Submissions](#submissions)
-Teams - can you submit a Pull Request on this repo (by 18:50 Saturday October 31) with:
-1. a link to the public repo where your code is hosted, and
-1. a `.pdf` copy of your presentation
+Steps to submit your code and presentations:
+1. Please ensure it's before 18:50 on Saturday!
+1. Submit a Pull Request to this repo that includes:
+   1. a folder with your team name (e.g `ftl-team`)
+   1. a link to the public repo where your code is hosted
+   1. a link to your presentation
+1. Copy/paste your PR in the `#submissions` channel on Discord, so that organizers are aware!
+
+Feel free to use the `team-ftl` folder as a guide!
