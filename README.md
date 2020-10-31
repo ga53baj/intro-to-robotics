@@ -9,9 +9,9 @@ Welcome to the official FTL + TI [Intro to Robotics Hackathon](https://hackathon
 Steps to submit your code and presentations:
 1. Please ensure it's before 18:50 on Saturday!
 1. Submit a Pull Request to this repo that includes:
-   1. a folder with your team name (e.g `ftl-team`)
+   1. a folder with your team name (e.g `team-ftl`)
    1. a link to the public repo where your code is hosted
    1. a link to your presentation
-1. Copy/paste your PR in the `#submissions` channel on Discord, so that organizers are aware!
+1. Copy/paste your PR in the `#pitches` channel on Discord, so that organizers are aware!
 
 Feel free to use the `team-ftl` folder as a guide!
